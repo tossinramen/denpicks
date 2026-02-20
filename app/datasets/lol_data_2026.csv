@@ -1,0 +1,482 @@
+Game ID,Year,Region,Team Blue,Team Red,Winner,FT5 Winner,Champ 1,Champ 2,Champ 3,Champ 4,Champ 5,Champ 6,Champ 7,Champ 8,Champ 9,Champ 10
+73112,2026,LCK,DN SOOPers,KT Rolster,DN SOOPers,DN SOOPers,Rumble,Wukong,Ahri,Corki,Pantheon,KSante,Malphite,Taliyah,Yunara,Alistar
+73113,2026,LCK,DN SOOPers,KT Rolster,KT Rolster,KT Rolster,Sion,Dr. Mundo,Viktor,Ashe,Soraka,Renekton,Sylas,Ryze,Lucian,Braum
+73114,2026,LCK,KT Rolster,DN SOOPers,KT Rolster,DN SOOPers,RekSai,Jarvan IV,Zoe,Aphelios,Thresh,Ambessa,Nocturne,Aurora,Ziggs,Rell
+73115,2026,LCK,Dplus KIA,HANJIN BRION,Dplus KIA,Dplus KIA,Ambessa,Jarvan IV,Ryze,Ezreal,Karma,RekSai,Xin Zhao,Taliyah,Yunara,Neeko
+73116,2026,LCK,Dplus KIA,HANJIN BRION,Dplus KIA,Dplus KIA,Rumble,Pantheon,LeBlanc,Sivir,Bard,KSante,Nocturne,Orianna,Jhin,Elise
+73118,2026,LCK,DRX,Gen.G,Gen.G,Gen.G,Kennen,Xin Zhao,Orianna,Yunara,Alistar,Renekton,Pantheon,Azir,Corki,Nami
+73119,2026,LCK,Gen.G,DRX,Gen.G,Gen.G,Ambessa,Wukong,Ryze,Ezreal,Leona,Sion,Jarvan IV,Cassiopeia,Jhin,Bard
+73121,2026,LCK,Nongshim RedForce,BNK FearX,BNK FearX,BNK FearX,Sion,Malphite,Taliyah,Aphelios,Karma,RekSai,Nautilus,Ahri,Yunara,Lulu
+73122,2026,LCK,BNK FearX,Nongshim RedForce,BNK FearX,Nongshim RedForce,Kennen,Pantheon,Sylas,Ezreal,Neeko,Renekton,Wukong,Orianna,Varus,Alistar
+73124,2026,LCK,Dplus KIA,DN SOOPers,Dplus KIA,Dplus KIA,KSante,Ambessa,Ryze,Yunara,Lulu,Rumble,Wukong,Taliyah,Corki,Nami
+73125,2026,LCK,Dplus KIA,DN SOOPers,Dplus KIA,Dplus KIA,Gwen,Xin Zhao,Ekko,Varus,Rakan,Sion,Jarvan IV,Syndra,Ashe,Braum
+73127,2026,LCK,T1,Hanwha Life Esports,Hanwha Life Esports,T1,Ambessa,Pantheon,Ryze,Lucian,Milio,Rumble,Vi,Taliyah,Corki,Alistar
+73128,2026,LCK,Hanwha Life Esports,T1,T1,T1,Gnar,Wukong,Aurora,Ziggs,Rakan,KSante,Xin Zhao,Sylas,Aphelios,Lulu
+73129,2026,LCK,T1,Hanwha Life Esports,T1,T1,Akali,Nocturne,Orianna,Sivir,Bard,RekSai,Jarvan IV,Azir,Jhin,Nautilus
+73130,2026,LCK,BNK FearX,HANJIN BRION,BNK FearX,HANJIN BRION,Renekton,Pantheon,Azir,Xayah,Rakan,Gnar,Vi,Taliyah,Ezreal,Leona
+73131,2026,LCK,BNK FearX,HANJIN BRION,HANJIN BRION,BNK FearX,Aatrox,Xin Zhao,Galio,Yunara,Lulu,Ambessa,Trundle,Ryze,Varus,Nautilus
+73132,2026,LCK,HANJIN BRION,BNK FearX,BNK FearX,HANJIN BRION,Sion,Poppy,Syndra,Lucian,Braum,RekSai,Wukong,Orianna,Kaisa,Alistar
+73133,2026,LCK,KT Rolster,Gen.G,Gen.G,Gen.G,KSante,Vi,Taliyah,Ezreal,Alistar,Rumble,Xin Zhao,Yone,Varus,Rakan
+73134,2026,LCK,Gen.G,KT Rolster,Gen.G,Gen.G,Sion,Ambessa,Anivia,Yunara,Rell,Renekton,Wukong,Ryze,Ziggs,Nautilus
+73136,2026,LCK,Hanwha Life Esports,Nongshim RedForce,Nongshim RedForce,Hanwha Life Esports,Sion,Aatrox,Azir,Aphelios,Lulu,Zaahen,Pantheon,Orianna,Corki,Neeko
+73137,2026,LCK,Nongshim RedForce,Hanwha Life Esports,Nongshim RedForce,Hanwha Life Esports,Gwen,Jarvan IV,Taliyah,Yunara,Nautilus,Ambessa,Xin Zhao,Ryze,Varus,Braum
+73139,2026,LCK,T1,DRX,T1,T1,Zaahen,Nocturne,Azir,Aphelios,Thresh,Jax,Xin Zhao,Orianna,Yunara,Bard
+73140,2026,LCK,T1,DRX,DRX,DRX,Gnar,Sylas,Ryze,Kaisa,Neeko,Renekton,Ambessa,Taliyah,Corki,Alistar
+73141,2026,LCK,DRX,T1,T1,T1,Gragas,Vi,Syndra,Lucian,Braum,Gwen,Jarvan IV,Aurora,Kalista,Renata Glasc
+73142,2026,LCK,Dplus KIA Challengers,Gen.G Global Academy,Dplus KIA Challengers,Dplus KIA Challengers,Renekton,Wukong,Taliyah,Yunara,Lulu,Ambessa,Xin Zhao,Syndra,Jhin,Neeko
+73143,2026,LCK,Dplus KIA Challengers,Gen.G Global Academy,Dplus KIA Challengers,Gen.G Global Academy,Zaahen,Jarvan IV,Anivia,Varus,Alistar,Sion,Nocturne,Ryze,Ezreal,Leona
+73387,2026,LCK,Dplus KIA,Nongshim RedForce,Dplus KIA,Dplus KIA,KSante,Jarvan IV,Ryze,Sivir,Bard,Rumble,Pantheon,Taliyah,Ezreal,Neeko
+73388,2026,LCK,Dplus KIA,Nongshim RedForce,Nongshim RedForce,Dplus KIA,Gwen,Qiyana,Zoe,Varus,Nautilus,Ambessa,Nocturne,Aurora,Yunara,Leona
+73389,2026,LCK,Dplus KIA,Nongshim RedForce,Dplus KIA,Dplus KIA,Zaahen,Vi,Twisted Fate,Lucian,Nami,Gnar,Jayce,Akali,Kalista,Renata Glasc
+73390,2026,LCK,DN SOOPers,DRX,DRX,DRX,RekSai,Xin Zhao,Azir,Yunara,Alistar,Renekton,Nocturne,Orianna,Corki,Braum
+73391,2026,LCK,DRX,DN SOOPers,DN SOOPers,DN SOOPers,Gnar,Pantheon,Taliyah,Sivir,Leona,Kennen,Lee Sin,Ryze,Aphelios,Neeko
+73392,2026,LCK,DN SOOPers,DRX,DN SOOPers,DRX,KSante,Jayce,Zoe,Kalista,Renata Glasc,Gwen,Jarvan IV,Aurora,Lucian,Nami
+73393,2026,LCK,Hanwha Life Esports,HANJIN BRION,Hanwha Life Esports,HANJIN BRION,Gnar,Jarvan IV,Azir,Varus,Rakan,Renekton,Nocturne,Orianna,Jhin,Pantheon
+73394,2026,LCK,Hanwha Life Esports,HANJIN BRION,HANJIN BRION,HANJIN BRION,Zaahen,Aatrox,Aurora,Yunara,Poppy,Ambessa,Xin Zhao,Taliyah,Corki,Elise
+73395,2026,LCK,HANJIN BRION,Hanwha Life Esports,Hanwha Life Esports,Hanwha Life Esports,KSante,Wukong,Ryze,Lucian,Braum,Gwen,Vi,Akali,Sivir,Alistar
+73396,2026,LCK,Gen.G,BNK FearX,Gen.G,BNK FearX,Renekton,Jarvan IV,Azir,Corki,Nami,KSante,Pantheon,Akali,Yunara,Lulu
+73397,2026,LCK,Gen.G,BNK FearX,Gen.G,BNK FearX,Gwen,Xin Zhao,Ryze,Jhin,Rakan,Ambessa,Qiyana,Orianna,Ezreal,Leona
+73399,2026,LCK,T1,KT Rolster,T1,T1,Gnar,Vi,Ryze,Ezreal,Lissandra,Renekton,Wukong,Taliyah,Varus,Rakan
+73400,2026,LCK,T1,KT Rolster,T1,KT Rolster,Zaahen,Dr. Mundo,Azir,Aphelios,Lulu,RekSai,Sejuani,Akali,Yunara,Neeko
+73402,2026,LCK,DRX,Nongshim RedForce,DRX,Nongshim RedForce,Gnar,Vi,Ryze,Kaisa,Neeko,Renekton,Jayce,Taliyah,Yunara,Alistar
+73403,2026,LCK,DRX,Nongshim RedForce,Nongshim RedForce,DRX,Gwen,Pantheon,Akali,Corki,Poppy,Zaahen,Jarvan IV,Aurora,Kalista,Renata Glasc
+73404,2026,LCK,Nongshim RedForce,DRX,DRX,DRX,Sion,Xin Zhao,Azir,Caitlyn,Braum,KSante,Jax,Orianna,Jhin,Bard
+73405,2026,LCK,DN SOOPers,Hanwha Life Esports,Hanwha Life Esports,DN SOOPers,RekSai,Jarvan IV,Orianna,Sivir,Alistar,Sion,Xin Zhao,Azir,Varus,Rakan
+73406,2026,LCK,DN SOOPers,Hanwha Life Esports,DN SOOPers,Hanwha Life Esports,KSante,Wukong,Ahri,Ezreal,Neeko,Aurora,Vi,Taliyah,Corki,Bard
+73407,2026,LCK,DN SOOPers,Hanwha Life Esports,Hanwha Life Esports,DN SOOPers,Aatrox,Hecarim,Cassiopeia,Aphelios,Rell,Renekton,Trundle,Ryze,Ziggs,Nautilus
+73408,2026,LCK,Dplus KIA,Gen.G,Gen.G,Gen.G,Ambessa,Jarvan IV,Ryze,Corki,Nami,Gwen,Xin Zhao,Anivia,Varus,Bard
+73409,2026,LCK,Gen.G,Dplus KIA,Gen.G,Gen.G,Rumble,Wukong,Galio,Ashe,Seraphine,Sion,Vi,Syndra,Yunara,Lulu
+73411,2026,LCK,BNK FearX,T1,T1,T1,Rumble,Nocturne,Taliyah,Varus,Neeko,Jayce,Vi,Ryze,Corki,Nami
+73412,2026,LCK,T1,BNK FearX,BNK FearX,BNK FearX,Aurora,Xin Zhao,Yone,Aphelios,Thresh,Sion,Jarvan IV,Syndra,Lucian,Milio
+73413,2026,LCK,BNK FearX,T1,T1,T1,Gnar,Qiyana,Ahri,Ezreal,Rell,KSante,Pantheon,Galio,Kaisa,Bard
+73414,2026,LCK,HANJIN BRION,KT Rolster,HANJIN BRION,HANJIN BRION,Gwen,Pantheon,Orianna,Corki,Rakan,KSante,Xin Zhao,Azir,Lucian,Braum
+73415,2026,LCK,HANJIN BRION,KT Rolster,KT Rolster,HANJIN BRION,Renekton,Ambessa,Ryze,Varus,Karma,Gnar,Dr. Mundo,Taliyah,Yunara,Neeko
+73416,2026,LCK,KT Rolster,HANJIN BRION,KT Rolster,KT Rolster,Kennen,Wukong,Zoe,Kaisa,Nautilus,Zaahen,Vi,Ziggs,Miss Fortune,Leona
+73417,2026,LCK,Leviatan,Los Grandes,Los Grandes,Los Grandes,Ambessa,Jarvan IV,Ryze,Yunara,Nautilus,Rumble,Vi,Taliyah,Tristana,Rakan
+73418,2026,LCK,RED Canids,FURIA,RED Canids,RED Canids,Rumble,Xin Zhao,Ryze,Yunara,Bard,KSante,Wukong,Anivia,Corki,Alistar
+73419,2026,LCK,Vivo Keyd Stars,Leviatan,Vivo Keyd Stars,Vivo Keyd Stars,Rumble,Wukong,Ahri,Yunara,Nautilus,KSante,Xin Zhao,Orianna,Kaisa,Rell
+73675,2026,LCK,DRX,HANJIN BRION,DRX,DRX,Gnar,Xin Zhao,Taliyah,Yunara,Bard,Renekton,Pantheon,Ryze,Ezreal,Braum
+73676,2026,LCK,DRX,HANJIN BRION,HANJIN BRION,HANJIN BRION,Ambessa,Vi,Orianna,Kaisa,Neeko,Gwen,Jarvan IV,Azir,Sivir,Karma
+73677,2026,LCK,HANJIN BRION,DRX,HANJIN BRION,HANJIN BRION,Aurora,Trundle,Sylas,Aphelios,Thresh,Zaahen,Wukong,Ahri,Zeri,Alistar
+73678,2026,LCK,HANJIN BRION,DRX,DRX,HANJIN BRION,Yorick,Sejuani,Akali,Kalista,Renata Glasc,Jax,Malphite,Viktor,Xayah,Rakan
+73679,2026,LCK,DRX,HANJIN BRION,DRX,DRX,KSante,Aatrox,Syndra,Jhin,Nautilus,Sion,Nocturne,Zoe,Tristana,Rell
+73680,2026,LCK,BNK FearX,DN SOOPers,BNK FearX,DN SOOPers,Renekton,Vi,Azir,Lucian,Nami,Sion,Jarvan IV,Orianna,Yunara,Lulu
+73681,2026,LCK,BNK FearX,DN SOOPers,BNK FearX,BNK FearX,Kennen,Xin Zhao,Ryze,Corki,Bard,Ambessa,Wukong,Taliyah,Sivir,Rakan
+73682,2026,LCK,BNK FearX,DN SOOPers,DN SOOPers,DN SOOPers,Gnar,Aatrox,Aurora,Ezreal,Rell,KSante,Lee Sin,Syndra,Kaisa,Neeko
+73683,2026,LCK,DN SOOPers,BNK FearX,BNK FearX,DN SOOPers,RekSai,Sejuani,Yone,Ziggs,Pantheon,Jax,Lillia,Jayce,Jhin,Leona
+73685,2026,LCK,KT Rolster,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,Ambessa,Vi,Taliyah,Corki,Nautilus,Aatrox,Pantheon,Ryze,Yunara,Neeko
+73686,2026,LCK,Nongshim RedForce,KT Rolster,Nongshim RedForce,Nongshim RedForce,Gnar,Xin Zhao,Orianna,Kalista,Renata Glasc,Renekton,Wukong,Azir,Ezreal,Karma
+73687,2026,LCK,Nongshim RedForce,KT Rolster,KT Rolster,KT Rolster,KSante,Malphite,Yone,Jinx,Lulu,Zaahen,Dr. Mundo,Ahri,Aphelios,Blitzcrank
+73688,2026,LCK,KT Rolster,Nongshim RedForce,KT Rolster,KT Rolster,RekSai,Jax,Akali,Lucian,Braum,Gragas,Jarvan IV,Galio,Caitlyn,Tahm Kench
+73689,2026,LCK,KT Rolster,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,Sion,Nocturne,Syndra,Miss Fortune,Rakan,Olaf,Trundle,Aurora,Kaisa,Shen
+73690,2026,LCK,Dplus KIA,T1,T1,T1,Rumble,Xin Zhao,Orianna,Ezreal,Karma,Ambessa,Jarvan IV,Azir,Jhin,Neeko
+73691,2026,LCK,T1,Dplus KIA,T1,T1,Sion,Vi,Ryze,Kaisa,Nautilus,Zaahen,Wukong,Anivia,Corki,Alistar
+73692,2026,LCK,T1,Dplus KIA,T1,T1,Kennen,Nocturne,Galio,Varus,Rell,Yorick,Pantheon,Ahri,Lucian,Nami
+73695,2026,LCK,Gen.G,Hanwha Life Esports,Gen.G,Gen.G,Aurora,Vi,Yone,Yunara,Neeko,KSante,Xin Zhao,Azir,Corki,Rakan
+73696,2026,LCK,Gen.G,Hanwha Life Esports,Gen.G,Hanwha Life Esports,Gnar,Aatrox,Galio,Jhin,Bard,Renekton,Jarvan IV,Orianna,Miss Fortune,Rell
+73697,2026,LCK,Gen.G,Hanwha Life Esports,Gen.G,Gen.G,Ornn,Pantheon,Cassiopeia,Aphelios,Thresh,Rumble,Trundle,Ryze,Sivir,Alistar
+73700,2026,LCK,Axolotl,P11 Esports,Axolotl,Axolotl,Camille,Vi,Twisted Fate,Varus,Neeko,KSante,Jayce,Hwei,Jhin,Karma
+73929,2026,LCK,HANJIN BRION,DRX,DRX,DRX,Rumble,Pantheon,Ryze,Corki,Alistar,Ambessa,Xin Zhao,Orianna,Yunara,Nautilus
+73930,2026,LCK,DRX,HANJIN BRION,HANJIN BRION,DRX,Gwen,Jarvan IV,Azir,Xayah,Rakan,Aurora,Vi,Taliyah,Ezreal,Elise
+73931,2026,LCK,HANJIN BRION,DRX,DRX,DRX,Aatrox,Wukong,Cassiopeia,Aphelios,Lulu,KSante,Zaahen,Galio,Lucian,Sona
+73934,2026,LCK,DN SOOPers,KT Rolster,DN SOOPers,DN SOOPers,Gwen,Ambessa,Akali,Ezreal,Neeko,Renekton,Vi,Azir,Corki,Nami
+73935,2026,LCK,DN SOOPers,KT Rolster,DN SOOPers,DN SOOPers,RekSai,Lee Sin,Ryze,Yunara,Rell,Sion,Jayce,Taliyah,Caitlyn,Bard
+73939,2026,LCK,Fukuoka SoftBank HAWKS gaming,GAM Esports,GAM Esports,Fukuoka SoftBank HAWKS gaming,KSante,Jarvan IV,Taliyah,Corki,Bard,Gnar,Lee Sin,Ryze,Yunara,Nautilus
+74125,2026,LCK,Dplus KIA,DRX,Dplus KIA,Dplus KIA,Ornn,Jarvan IV,Ahri,Yunara,Lulu,Rumble,Xin Zhao,Taliyah,Corki,Neeko
+74126,2026,LCK,Dplus KIA,DRX,Dplus KIA,Dplus KIA,Kennen,Pantheon,Cassiopeia,Lucian,Braum,Sion,Ambessa,Aurora,Ezreal,Nautilus
+74128,2026,LCK,DN SOOPers,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,RekSai,Jayce,Anivia,Corki,Nautilus,Ambessa,Jarvan IV,Ryze,Yunara,Leona
+74129,2026,LCK,Nongshim RedForce,DN SOOPers,DN SOOPers,Nongshim RedForce,KSante,Vi,Akali,Lucian,Nami,Rumble,Wukong,Ahri,Xayah,Rakan
+74130,2026,LCK,DN SOOPers,Nongshim RedForce,DN SOOPers,Nongshim RedForce,Gwen,Lee Sin,Orianna,Ezreal,Rell,Sion,Xin Zhao,Azir,Kaisa,Alistar
+74131,2026,LCK,Team WE,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Gwen,Xin Zhao,Ziggs,Yunara,Lulu,Renekton,Qiyana,Azir,Aphelios,Thresh
+74132,2026,LCK,Team WE,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Rumble,Wukong,Taliyah,Varus,Rakan,Ornn,Ambessa,Ryze,Jhin,Bard
+74165,2026,LCK,Nongshim RedForce,DRX,DRX,DRX,Ambessa,Malphite,Orianna,Lucian,Braum,Gwen,Pantheon,Azir,Yunara,Nautilus
+74166,2026,LCK,DRX,Nongshim RedForce,DRX,DRX,KSante,Jarvan IV,Syndra,Corki,Alistar,Sion,Vi,Taliyah,Ezreal,Leona
+74167,2026,LCK,DRX,Nongshim RedForce,DRX,DRX,Gnar,Xin Zhao,Aurora,Sivir,Karma,Renekton,Wukong,Viktor,Varus,Renata Glasc
+74168,2026,LCK,Sentinels,Team Liquid,Team Liquid,Team Liquid,Aatrox,Pantheon,Taliyah,Varus,Rell,Ambessa,Wukong,Ryze,Lucian,Nami
+74169,2026,LCK,Team Liquid,Sentinels,Sentinels,Sentinels,Renekton,Jarvan IV,Orianna,Ezreal,Karma,Sion,Vi,Azir,Kaisa,Neeko
+74170,2026,LCK,Sentinels,Team Liquid,Sentinels,Sentinels,Ornn,Xin Zhao,Galio,Corki,Rakan,Rumble,Lee Sin,Viktor,Yunara,Alistar
+74177,2026,LCK,DN SOOPers,BNK FearX,DN SOOPers,DN SOOPers,Ambessa,Nocturne,Orianna,Yunara,Rakan,Aurora,Jarvan IV,Azir,Ezreal,Bard
+74178,2026,LCK,DN SOOPers,BNK FearX,BNK FearX,BNK FearX,Gnar,Wukong,Cassiopeia,Corki,Alistar,Renekton,Lee Sin,Ryze,Sivir,Karma
+74179,2026,LCK,BNK FearX,DN SOOPers,BNK FearX,DN SOOPers,KSante,Pantheon,Ahri,Xayah,Poppy,Gwen,Vi,Akali,Jhin,Leona
+74180,2026,LCK,BNK FearX,DN SOOPers,DN SOOPers,DN SOOPers,RekSai,Xin Zhao,Taliyah,Kalista,Renata Glasc,Zaahen,Dr. Mundo,Zoe,Caitlyn,Neeko
+74181,2026,LCK,DN SOOPers,BNK FearX,BNK FearX,BNK FearX,Jax,Rammus,Smolder,Miss Fortune,Rell,Sion,Zac,Galio,Aphelios,Thresh
+74182,2026,LCK,Dplus KIA,DRX,DRX,Dplus KIA,Jayce,Ambessa,Azir,Jhin,Bard,Kennen,Xin Zhao,Orianna,Corki,Nautilus
+74183,2026,LCK,Dplus KIA,DRX,Dplus KIA,Dplus KIA,Gnar,Dr. Mundo,Zoe,Ashe,Seraphine,Aurora,Zaahen,Sylas,Yunara,Karma
+74184,2026,LCK,Dplus KIA,DRX,DRX,Dplus KIA,KSante,Nocturne,Viktor,Varus,Alistar,Renekton,Olaf,Ryze,Sivir,Poppy
+74185,2026,LCK,Dplus KIA,DRX,Dplus KIA,Dplus KIA,Jax,Vi,Taliyah,Ziggs,Rakan,Sion,Naafiri,Galio,Kalista,Renata Glasc
+74186,2026,LCK,Dplus KIA,DRX,Dplus KIA,Dplus KIA,Gwen,Lee Sin,Twisted Fate,Jinx,Thresh,Rumble,Sejuani,Tristana,Aphelios,Lulu
+74187,2026,LCK,GnG Amazigh,Dragons Esports,GnG Amazigh,GnG Amazigh,Gnar,Aatrox,Orianna,Corki,Neeko,Kennen,Nocturne,Azir,Yunara,Karma
+74447,2026,LCK,DRX,DN SOOPers,DN SOOPers,DN SOOPers,Ornn,Ambessa,Azir,Ezreal,Nautilus,Rumble,Pantheon,Orianna,Jhin,Alistar
+74448,2026,LCK,DN SOOPers,DRX,DN SOOPers,DN SOOPers,Yorick,Wukong,Ahri,Varus,Rakan,Kennen,Xin Zhao,Aurora,Sivir,Leona
+74449,2026,LCK,DN SOOPers,DRX,DRX,DN SOOPers,Jax,Jarvan IV,Ryze,Xayah,Lulu,Gnar,Vi,Taliyah,Kaisa,Neeko
+74450,2026,LCK,DRX,DN SOOPers,DN SOOPers,DN SOOPers,Jayce,Dr. Mundo,Twisted Fate,Yunara,Karma,Renekton,Naafiri,Viktor,Corki,Rell
+74452,2026,LCK,Dplus KIA,Gen.G,Gen.G,Gen.G,Ornn,Jarvan IV,Azir,Ezreal,Yuumi,Rumble,Vi,Taliyah,Jhin,Rakan
+74453,2026,LCK,Dplus KIA,Gen.G,Dplus KIA,Dplus KIA,Gwen,Wukong,Cassiopeia,Yunara,Lulu,Jayce,Xin Zhao,Ahri,Corki,Nami
+74454,2026,LCK,Dplus KIA,Gen.G,Gen.G,Gen.G,Jax,Dr. Mundo,Malzahar,Ashe,Seraphine,Zaahen,Pantheon,Ryze,Kalista,Renata Glasc
+74455,2026,LCK,Gen.G,Dplus KIA,Gen.G,Gen.G,RekSai,Nocturne,Aurora,Miss Fortune,Rell,Sion,Aatrox,Anivia,Aphelios,Thresh
+74457,2026,LCK,BNK FearX,T1,BNK FearX,BNK FearX,Rumble,Pantheon,Orianna,Aphelios,Lulu,Ornn,Xin Zhao,Azir,Jinx,Thresh
+74458,2026,LCK,BNK FearX,T1,T1,T1,Renekton,Jarvan IV,Ahri,Sivir,Poppy,RekSai,Ambessa,Sylas,Varus,Alistar
+74459,2026,LCK,T1,BNK FearX,BNK FearX,BNK FearX,Kennen,Wukong,Anivia,Jhin,Rakan,Ryze,Maokai,Yone,Ashe,Seraphine
+74460,2026,LCK,BNK FearX,T1,BNK FearX,BNK FearX,Gnar,Trundle,Twisted Fate,Lucian,Milio,Jax,Malphite,Aurora,Yunara,Nautilus
+74462,2026,LCK,Falke Esports,Movistar KOI Fenix,Movistar KOI Fenix,Movistar KOI Fenix,Ambessa,Vi,Orianna,Aphelios,Rell,Zaahen,Pantheon,Azir,Yunara,Nautilus
+74673,2026,LCK,DN SOOPers,Dplus KIA,Dplus KIA,DN SOOPers,Gwen,Vi,Taliyah,Corki,Nautilus,Ambessa,Xin Zhao,Azir,Ezreal,Leona
+74674,2026,LCK,Dplus KIA,DN SOOPers,Dplus KIA,Dplus KIA,KSante,Jarvan IV,Ryze,Aphelios,Lulu,Rumble,Sejuani,Yone,Kalista,Renata Glasc
+74675,2026,LCK,Dplus KIA,DN SOOPers,DN SOOPers,DN SOOPers,Aurora,Lee Sin,LeBlanc,Jhin,Bard,Renekton,Wukong,Galio,Varus,Rakan
+74676,2026,LCK,DN SOOPers,Dplus KIA,Dplus KIA,Dplus KIA,Kennen,Naafiri,Viktor,Yunara,Neeko,Sion,Aatrox,Ahri,Ashe,Seraphine
+74678,2026,LCK,Gen.G,BNK FearX,BNK FearX,N/A,,,,,,,,,,
+74679,2026,LCK,Gen.G,BNK FearX,BNK FearX,N/A,,,,,,,,,,
+74680,2026,LCK,Gen.G,BNK FearX,BNK FearX,N/A,,,,,,,,,,
+74681,2026,LCK,Gen.G,BNK FearX,BNK FearX,N/A,,,,,,,,,,
+74682,2026,LCK,Gen.G,BNK FearX,BNK FearX,N/A,,,,,,,,,,
+74683,2026,LCK,Keypulse Esports,GD Esports,GD Esports,Keypulse Esports,KSante,RekSai,Ryze,Ashe,Seraphine,Zaahen,Xin Zhao,Azir,Varus,Neeko
+73265,2026,LEC,Fnatic,Los Ratones,Fnatic,Fnatic,Ambessa,Vi,Taliyah,Yunara,Alistar,Kled,Jarvan IV,Ryze,Corki,Braum
+73266,2026,LEC,GIANTX,Shifters,GIANTX,Shifters,Rumble,Xin Zhao,Orianna,Kaisa,Rakan,KSante,Wukong,Azir,Ezreal,Bard
+73267,2026,LEC,Team Heretics,Natus Vincere,Natus Vincere,Natus Vincere,Rumble,Wukong,Orianna,Corki,Rell,KSante,Qiyana,Azir,Yunara,Rakan
+73268,2026,LEC,SK Gaming,Team Vitality,Team Vitality,SK Gaming,Ambessa,Jayce,Viktor,Yunara,Alistar,Aatrox,Pantheon,Taliyah,Corki,Rakan
+73269,2026,LEC,Karmine Corp,Karmine Corp Blue,Karmine Corp,Karmine Corp Blue,Sion,Xin Zhao,Azir,Ezreal,Bard,Aatrox,Vi,Taliyah,Varus,Nautilus
+73270,2026,LEC,G2 Esports,Movistar KOI,Movistar KOI,Movistar KOI,Gnar,Wukong,Azir,Corki,Alistar,KSante,Jayce,Taliyah,Yunara,Lulu
+73271,2026,LEC,Bulldog Esports,4 Swines and A Bum,Bulldog Esports,Bulldog Esports,Zaahen,Wukong,Orianna,Aphelios,Lulu,Camille,Chogath,Viktor,Yunara,Nautilus
+73272,2026,LEC,Ruddy Corporation,Deer Gaming,Deer Gaming,Deer Gaming,Dr. Mundo,Zac,Syndra,Yunara,Lulu,Aatrox,Wukong,Orianna,Corki,Pyke
+73273,2026,LEC,Lundqvist Lightside,Arctic Pandas,Arctic Pandas,Arctic Pandas,Rumble,Wukong,Sylas,Sivir,Bard,Aurora,Vi,Ryze,Corki,Alistar
+73274,2026,LEC,Verdant,DMG Esports,DMG Esports,Verdant,Sion,Xin Zhao,Ryze,Corki,Nautilus,KSante,Pantheon,Taliyah,Sivir,Rell
+73275,2026,LEC,La BOMBAS,LEO,LEO,LEO,Ambessa,Wukong,Ryze,Yunara,Nautilus,Aatrox,Jarvan IV,Syndra,Jhin,Rell
+73295,2026,LEC,Team Heretics,Shifters,Shifters,Shifters,Rumble,Pantheon,Azir,Smolder,Nautilus,KSante,Wukong,Ryze,Corki,Rell
+73296,2026,LEC,Los Ratones,Karmine Corp Blue,Karmine Corp Blue,Karmine Corp Blue,Volibear,Jarvan IV,Ryze,Corki,Nami,Zaahen,Wukong,Orianna,Yunara,Alistar
+73297,2026,LEC,Team Vitality,Natus Vincere,Natus Vincere,Natus Vincere,Renekton,Xin Zhao,Azir,Corki,Nautilus,KSante,Ambessa,Taliyah,Yunara,Alistar
+73298,2026,LEC,Fnatic,SK Gaming,SK Gaming,SK Gaming,Renekton,Wukong,Taliyah,Yunara,Alistar,Kennen,Vi,Ryze,Varus,Nautilus
+73299,2026,LEC,G2 Esports,GIANTX,GIANTX,GIANTX,KSante,Xin Zhao,Anivia,Yunara,Rell,Ambessa,Jarvan IV,Ryze,Varus,Bard
+73300,2026,LEC,Karmine Corp,Movistar KOI,Movistar KOI,Movistar KOI,Rumble,Xin Zhao,Taliyah,Caitlyn,Karma,Sion,Jarvan IV,Azir,Yunara,Bard
+73301,2026,LEC,Natus Vincere,Fnatic,Fnatic,Natus Vincere,KSante,Ambessa,Akali,Varus,Rakan,Rumble,Jarvan IV,Azir,Corki,Alistar
+73302,2026,LEC,Karmine Corp Blue,Team Vitality,Team Vitality,Team Vitality,Aatrox,Pantheon,Ryze,Aphelios,Bard,Renekton,Wukong,Azir,Xayah,Rakan
+73303,2026,LEC,Team Heretics,GIANTX,Team Heretics,Team Heretics,Ambessa,Dr. Mundo,Ryze,Varus,Rakan,Aatrox,Malphite,Azir,Jhin,Alistar
+73304,2026,LEC,Shifters,Movistar KOI,Shifters,Shifters,Aurora,Vi,Cassiopeia,Varus,Neeko,Rumble,Ambessa,Azir,Sivir,Nautilus
+73305,2026,LEC,Los Ratones,Karmine Corp,Karmine Corp,Karmine Corp,Vi,Dr. Mundo,Orianna,Yunara,Bard,Gnar,Wukong,Azir,Aphelios,Lulu
+73306,2026,LEC,G2 Esports,SK Gaming,G2 Esports,G2 Esports,KSante,Jayce,Orianna,Ezreal,Nautilus,Ambessa,Vi,Aurelion Sol,Corki,Bard
+73307,2026,LEC,Team WE,ThunderTalk Gaming,Team WE,N/A,Yorick,Trundle,Sylas,Varus,Braum,Ambessa,Malphite,Azir,Miss Fortune,Nautilus
+73308,2026,LEC,Team WE,ThunderTalk Gaming,Team WE,N/A,Sion,Wukong,Ryze,Corki,Nami,Renekton,Vi,Taliyah,Yunara,Alistar
+73310,2026,LEC,Weibo Gaming,Top Esports,Top Esports,N/A,KSante,Wukong,Syndra,Jhin,Leona,Renekton,Poppy,Azir,Varus,Nautilus
+73311,2026,LEC,Top Esports,Weibo Gaming,Weibo Gaming,N/A,Rumble,Pantheon,Yone,Corki,Rell,Ambessa,Jarvan IV,Ryze,Kaisa,Alistar
+73523,2026,LEC,GIANTX,Los Ratones,GIANTX,GIANTX,Gnar,Sejuani,Yone,Kaisa,Rakan,Volibear,Wukong,Azir,Corki,Braum
+73524,2026,LEC,Natus Vincere,Karmine Corp Blue,Natus Vincere,Karmine Corp Blue,Sion,Aatrox,Azir,Yunara,Alistar,Rumble,Jarvan IV,Akali,Aphelios,Neeko
+73525,2026,LEC,Team Heretics,Team Vitality,Team Heretics,Team Vitality,KSante,Dr. Mundo,Ryze,Aphelios,Thresh,Rumble,Wukong,Taliyah,Kalista,Renata Glasc
+73526,2026,LEC,G2 Esports,Shifters,G2 Esports,G2 Esports,Rumble,Jarvan IV,Taliyah,Kaisa,Rakan,KSante,Xin Zhao,Azir,Ezreal,Karma
+73527,2026,LEC,SK Gaming,Karmine Corp,Karmine Corp,Karmine Corp,Kled,Pantheon,Ekko,Jinx,Nautilus,Sion,Jarvan IV,Azir,Yunara,Leona
+73528,2026,LEC,Fnatic,Movistar KOI,Movistar KOI,Fnatic,KSante,Jarvan IV,Azir,Aphelios,Thresh,Rumble,Pantheon,Akali,Corki,Alistar
+73529,2026,LEC,Gity Meavedronu,CITA Kaizen,CITA Kaizen,CITA Kaizen,Ornn,Wukong,Ryze,Sivir,Karma,Gnar,Lee Sin,Galio,Varus,Neeko
+73530,2026,LEC,KIA.eSuba Academy,SPAXFAMILY,SPAXFAMILY,KIA.eSuba Academy,Sion,Ambessa,Orianna,Yunara,Rakan,Renekton,RekSai,Ryze,Kaisa,Alistar
+73531,2026,LEC,EXILE esports,Priority,EXILE esports,Priority,Zaahen,Ambessa,Syndra,Kaisa,Rakan,Gwen,Wukong,Orianna,Yunara,Lulu
+73532,2026,LEC,Divernex,Ethereal Enigmas,Ethereal Enigmas,Ethereal Enigmas,Renekton,Xin Zhao,Orianna,Sivir,Nautilus,Jax,Naafiri,Akali,Varus,Rell
+73533,2026,LEC,BRUTE,Meavedron,BRUTE,BRUTE,Ornn,Pantheon,Ryze,Corki,Karma,Fiora,Wukong,Orianna,Varus,Neeko
+73561,2026,LEC,Team Vitality,Shifters,Team Vitality,Team Vitality,KSante,Jarvan IV,Zoe,Kaisa,Neeko,Rumble,Vi,Swain,Corki,Nami
+73562,2026,LEC,SK Gaming,Natus Vincere,Natus Vincere,Natus Vincere,Chogath,Wukong,Ryze,Yunara,Rell,Sion,Aatrox,Taliyah,Aphelios,Rakan
+73563,2026,LEC,Team Heretics,Los Ratones,Los Ratones,Team Heretics,KSante,Jayce,Cassiopeia,Aphelios,Nautilus,Kled,Dr. Mundo,Ryze,Caitlyn,Braum
+73564,2026,LEC,Karmine Corp Blue,Movistar KOI,Movistar KOI,Movistar KOI,KSante,Xin Zhao,Ryze,Yunara,Bard,Rumble,Vi,Taliyah,Aphelios,Alistar
+73565,2026,LEC,Fnatic,GIANTX,Fnatic,Fnatic,Rumble,Xin Zhao,Azir,Yunara,Alistar,KSante,Nocturne,Orianna,Aphelios,Lulu
+73566,2026,LEC,G2 Esports,Karmine Corp,Karmine Corp,Karmine Corp,Lee Sin,Xin Zhao,Galio,Corki,Rakan,Rumble,Aatrox,Ryze,Yunara,Alistar
+73567,2026,LEC,SK Gaming,Karmine Corp Blue,SK Gaming,SK Gaming,Rumble,Pantheon,Yone,Varus,Alistar,Aatrox,Jarvan IV,Azir,Yunara,Rakan
+73568,2026,LEC,Shifters,Los Ratones,Los Ratones,Shifters,Nidalee,Vi,Taliyah,Lucian,Neeko,Gragas,Pantheon,Ryze,Caitlyn,Nami
+73569,2026,LEC,Team Vitality,Fnatic,Fnatic,Fnatic,Gwen,Jarvan IV,Ryze,Yunara,Alistar,KSante,Wukong,Orianna,Kaisa,Nautilus
+73570,2026,LEC,G2 Esports,Team Heretics,G2 Esports,G2 Esports,KSante,Aatrox,Orianna,Varus,Neeko,Gwen,Dr. Mundo,Azir,Jhin,Alistar
+73571,2026,LEC,Natus Vincere,Karmine Corp,Karmine Corp,Karmine Corp,Poppy,Aatrox,Taliyah,Aphelios,Nautilus,Ambessa,Pantheon,Azir,Yunara,Leona
+73572,2026,LEC,Movistar KOI,GIANTX,GIANTX,GIANTX,Renekton,Trundle,Azir,Yunara,Lulu,KSante,Vi,Taliyah,Caitlyn,Elise
+73779,2026,LEC,Team Heretics,SK Gaming,SK Gaming,SK Gaming,KSante,Aatrox,Orianna,Jhin,Karma,Rumble,Pantheon,Azir,Xayah,Rakan
+73780,2026,LEC,GIANTX,Natus Vincere,GIANTX,GIANTX,Sion,Xin Zhao,Orianna,Ezreal,Bard,Rumble,Wukong,Ryze,Corki,Pyke
+73781,2026,LEC,Fnatic,Shifters,Shifters,Shifters,KSante,Pantheon,Taliyah,Varus,Rakan,RekSai,Skarner,Azir,Jhin,Rell
+73782,2026,LEC,G2 Esports,Karmine Corp Blue,G2 Esports,G2 Esports,Sion,Xin Zhao,Azir,Aphelios,Alistar,KSante,Pantheon,Taliyah,Corki,Nautilus
+73783,2026,LEC,Team Vitality,Karmine Corp,Team Vitality,Team Vitality,KSante,Jayce,Ryze,Ezreal,Karma,Rumble,Pantheon,Cassiopeia,Sivir,Alistar
+73784,2026,LEC,Los Ratones,Movistar KOI,Los Ratones,Los Ratones,Poppy,Dr. Mundo,Orianna,Caitlyn,Nami,KSante,Jarvan IV,Azir,Ezreal,Karma
+73785,2026,LEC,Shifters,Natus Vincere,Natus Vincere,Shifters,KSante,Malphite,Cassiopeia,Kaisa,Nautilus,Gnar,Jayce,Azir,Sivir,Braum
+73786,2026,LEC,Team Heretics,Karmine Corp Blue,Team Heretics,Karmine Corp Blue,Kennen,Ambessa,Taliyah,Yunara,Rakan,Renekton,Vi,Azir,Kaisa,Alistar
+73787,2026,LEC,GIANTX,Team Vitality,Team Vitality,GIANTX,Rumble,Jarvan IV,Orianna,Xayah,Rakan,Sion,Vi,Aurelion Sol,Ezreal,Bard
+73788,2026,LEC,SK Gaming,Movistar KOI,Movistar KOI,SK Gaming,Sion,Pantheon,Ryze,Caitlyn,Elise,Rumble,Vi,Anivia,Yunara,Lulu
+73789,2026,LEC,Fnatic,Karmine Corp,Karmine Corp,Karmine Corp,KSante,Jayce,Ryze,Varus,Braum,Gnar,Dr. Mundo,Orianna,Jhin,Alistar
+73790,2026,LEC,G2 Esports,Los Ratones,Los Ratones,G2 Esports,Rumble,Aatrox,Ryze,Aphelios,Lulu,Kled,Dr. Mundo,Anivia,Yunara,Nami
+73791,2026,LEC,Karmine Corp Blue,Fnatic,Fnatic,Fnatic,KSante,Pantheon,Galio,Kaisa,Nautilus,Rumble,Poppy,Orianna,Yunara,Alistar
+73792,2026,LEC,SK Gaming,GIANTX,GIANTX,SK Gaming,Ryze,Vi,Yone,Yunara,Taric,Rumble,Jarvan IV,Azir,Corki,Rakan
+73793,2026,LEC,Los Ratones,Natus Vincere,Natus Vincere,Natus Vincere,KSante,Pantheon,Aurelion Sol,Caitlyn,Karma,Rumble,Xin Zhao,Ryze,Jhin,Bard
+73794,2026,LEC,G2 Esports,Team Vitality,G2 Esports,G2 Esports,KSante,Xin Zhao,Azir,Sivir,Alistar,Rumble,Vi,Yone,Corki,Bard
+73795,2026,LEC,Team Heretics,Movistar KOI,Team Heretics,Team Heretics,KSante,Xin Zhao,Orianna,Yunara,Braum,Rumble,Pantheon,Azir,Aphelios,Alistar
+73796,2026,LEC,Karmine Corp,Shifters,Karmine Corp,Karmine Corp,Rumble,Jayce,Galio,Varus,Alistar,KSante,Nocturne,Orianna,Sivir,Rakan
+73797,2026,LEC,Lupus Esports,Partizan Sangal,Partizan Sangal,Partizan Sangal,KSante,Pantheon,Taliyah,Yunara,Braum,Gnar,Wukong,Azir,Kaisa,Alistar
+73798,2026,LEC,Lupus Esports,Partizan Sangal,Partizan Sangal,Partizan Sangal,Sion,Jayce,Aurora,Corki,Rakan,Aatrox,Jarvan IV,Syndra,Varus,Neeko
+73800,2026,LEC,Crvena zvezda Esports,The Secret Club,Crvena zvezda Esports,Crvena zvezda Esports,Fiora,Wukong,Ryze,Caitlyn,Morgana,Jax,Aatrox,Cassiopeia,Ezreal,Leona
+73801,2026,LEC,The Secret Club,Crvena zvezda Esports,The Secret Club,The Secret Club,Sion,Vi,Taliyah,Yunara,Alistar,Trundle,Jarvan IV,Ahri,Xayah,Nautilus
+74041,2026,LEC,Team Heretics,Fnatic,Team Heretics,Fnatic,Ambessa,Dr. Mundo,Orianna,Jhin,Rell,Jax,Xin Zhao,Azir,Corki,Nautilus
+74042,2026,LEC,Karmine Corp Blue,Shifters,Shifters,Shifters,Aatrox,Vi,Taliyah,Kaisa,Rakan,Ambessa,Skarner,Azir,Yunara,Alistar
+74043,2026,LEC,SK Gaming,Los Ratones,Los Ratones,SK Gaming,Ornn,Xin Zhao,Yone,Yunara,Neeko,Gragas,Vi,Ryze,Corki,Karma
+74044,2026,LEC,G2 Esports,Natus Vincere,Natus Vincere,Natus Vincere,Renekton,Pantheon,Azir,Ezreal,Leona,Sion,Ambessa,Orianna,Aphelios,Nautilus
+74045,2026,LEC,Movistar KOI,Team Vitality,Team Vitality,Team Vitality,Poppy,Jayce,Ryze,Corki,Bard,KSante,Pantheon,Zoe,Yunara,Neeko
+74046,2026,LEC,Karmine Corp,GIANTX,Karmine Corp,Karmine Corp,Sion,Jarvan IV,Azir,Jhin,Bard,Gnar,Pantheon,Taliyah,Corki,Rakan
+74047,2026,LEC,Los Ratones,Team Vitality,Team Vitality,Team Vitality,Sion,Sylas,Yone,Corki,Bard,Dr. Mundo,Pantheon,Azir,Varus,Alistar
+74048,2026,LEC,GIANTX,Karmine Corp Blue,Karmine Corp Blue,GIANTX,Sion,Jarvan IV,Azir,Kaisa,Nautilus,Rumble,Aatrox,Taliyah,Yunara,Rell
+74049,2026,LEC,Shifters,SK Gaming,Shifters,Shifters,RekSai,Wukong,Taliyah,Yunara,Alistar,Ambessa,Dr. Mundo,Azir,Xayah,Rakan
+74050,2026,LEC,Movistar KOI,Natus Vincere,Movistar KOI,Movistar KOI,Sion,Vi,Taliyah,Corki,Nami,Aatrox,Pantheon,Azir,Caitlyn,Neeko
+74051,2026,LEC,Team Heretics,Karmine Corp,Team Heretics,Team Heretics,Ambessa,Rumble,Aurora,Jhin,Nautilus,KSante,Jayce,LeBlanc,Varus,Neeko
+74052,2026,LEC,G2 Esports,Fnatic,G2 Esports,G2 Esports,Poppy,Xin Zhao,Orianna,Sivir,Bard,Ambessa,Vi,Azir,Jhin,Nautilus
+74053,2026,LEC,T1 Esports Academy,HANJIN BRION Challengers,T1 Esports Academy,HANJIN BRION Challengers,Ambessa,Vi,Taliyah,Yunara,Lulu,Rumble,Pantheon,Ryze,Lucian,Nami
+74054,2026,LEC,T1 Esports Academy,HANJIN BRION Challengers,T1 Esports Academy,T1 Esports Academy,Renekton,Xin Zhao,Sylas,Varus,Alistar,Gnar,Wukong,Aurora,Ezreal,Leona
+74055,2026,LEC,T1 Esports Academy,HANJIN BRION Challengers,T1 Esports Academy,T1 Esports Academy,Sion,Nocturne,Azir,Aphelios,Milio,KSante,Qiyana,Orianna,Corki,Neeko
+74243,2026,LEC,Natus Vincere,Fnatic,Natus Vincere,Natus Vincere,KSante,Zaahen,Azir,Corki,Leona,Renekton,Xin Zhao,Orianna,Kaisa,Nautilus
+74244,2026,LEC,Fnatic,Natus Vincere,Natus Vincere,Fnatic,Jax,Pantheon,Taliyah,Yunara,Alistar,Sion,Aatrox,Ahri,Ezreal,Bard
+74246,2026,LEC,Movistar KOI,Team Vitality,Movistar KOI,Team Vitality,Zaahen,Xin Zhao,Taliyah,Yunara,Alistar,Jayce,Dr. Mundo,Azir,Corki,Bard
+74247,2026,LEC,Movistar KOI,Team Vitality,Movistar KOI,Movistar KOI,Ornn,Pantheon,Cassiopeia,Caitlyn,Neeko,Rumble,Jarvan IV,Ahri,Jinx,Nautilus
+74249,2026,LEC,Team Heretics,G2 Esports,G2 Esports,G2 Esports,Sion,Dr. Mundo,Anivia,Aphelios,Pyke,Gwen,Vi,Ryze,Caitlyn,Bard
+74250,2026,LEC,G2 Esports,Team Heretics,G2 Esports,Team Heretics,KSante,Trundle,Orianna,Kaisa,Neeko,Gnar,Pantheon,Azir,Miss Fortune,Nautilus
+74252,2026,LEC,Karmine Corp,GIANTX,Karmine Corp,Karmine Corp,Rumble,Xin Zhao,Galio,Varus,Rakan,Ornn,Jarvan IV,Orianna,Ezreal,Bard
+74253,2026,LEC,GIANTX,Karmine Corp,Karmine Corp,Karmine Corp,KSante,Poppy,Azir,Corki,Nami,Gwen,Vi,Aurora,Yunara,Lulu
+74255,2026,LEC,Team WE,Top Esports,Team WE,N/A,Rumble,Skarner,Azir,Aphelios,Lulu,Ambessa,Pantheon,Orianna,Jhin,Neeko
+74256,2026,LEC,Team WE,Top Esports,Top Esports,N/A,Renekton,Vi,Akali,Ezreal,Karma,Gwen,Xin Zhao,Galio,Miss Fortune,Alistar
+74257,2026,LEC,Team WE,Top Esports,Top Esports,N/A,Sion,Jarvan IV,Taliyah,Varus,Shen,Gnar,Qiyana,Aurora,Yunara,Leona
+74613,2026,LEC,GIANTX,Team Heretics,Team Heretics,N/A,,,,,,,,,,
+74614,2026,LEC,GIANTX,Team Heretics,Team Heretics,N/A,,,,,,,,,,
+74615,2026,LEC,GIANTX,Team Heretics,Team Heretics,N/A,,,,,,,,,,
+74616,2026,LEC,Fnatic,Team Vitality,Team Vitality,N/A,,,,,,,,,,
+74617,2026,LEC,Fnatic,Team Vitality,Team Vitality,N/A,,,,,,,,,,
+74618,2026,LEC,Fnatic,Team Vitality,Team Vitality,N/A,,,,,,,,,,
+74619,2026,LEC,Natus Vincere,Movistar KOI,Movistar KOI,N/A,,,,,,,,,,
+74620,2026,LEC,Natus Vincere,Movistar KOI,Movistar KOI,N/A,,,,,,,,,,
+74621,2026,LEC,Natus Vincere,Movistar KOI,Movistar KOI,N/A,,,,,,,,,,
+74622,2026,LEC,Karmine Corp,G2 Esports,G2 Esports,N/A,,,,,,,,,,
+74623,2026,LEC,Karmine Corp,G2 Esports,G2 Esports,N/A,,,,,,,,,,
+74624,2026,LEC,Karmine Corp,G2 Esports,G2 Esports,N/A,,,,,,,,,,
+74625,2026,LEC,Partizan Sangal,TQ DURPA KASHLQ,Partizan Sangal,Partizan Sangal,Gnar,Dr. Mundo,Taliyah,Varus,Alistar,Vayne,Hecarim,Akali,Miss Fortune,Braum
+74626,2026,LEC,Partizan Sangal,TQ DURPA KASHLQ,Partizan Sangal,Partizan Sangal,Rumble,Jarvan IV,Zoe,Caitlyn,Neeko,Tryndamere,Nidalee,Irelia,Jhin,Karma
+73549,2026,LCS,Team Liquid,Cloud9,Cloud9,Team Liquid,Sion,Xin Zhao,Orianna,Corki,Nami,Renekton,Nidalee,Azir,Sivir,Bard
+73550,2026,LCS,Cloud9,Team Liquid,Cloud9,Cloud9,Aurora,Jarvan IV,Taliyah,Varus,Rakan,Rumble,Vi,Yone,Jhin,Tahm Kench
+73552,2026,LCS,Disguised,Sentinels,Sentinels,Sentinels,Renekton,Pantheon,Taliyah,Kaisa,Neeko,KSante,Qiyana,Azir,Corki,Alistar
+73553,2026,LCS,Sentinels,Disguised,Disguised,Disguised,Gwen,Vi,Cassiopeia,Lucian,Nami,Ambessa,Wukong,Aurora,Yunara,Rakan
+73554,2026,LCS,Disguised,Sentinels,Disguised,Disguised,Sion,Xin Zhao,Akali,Sivir,Bard,Mordekaiser,Jarvan IV,Viktor,Aphelios,Rell
+73555,2026,LCS,FlyQuest,Shopify Rebellion,FlyQuest,Shopify Rebellion,KSante,Wukong,Orianna,Jhin,Karma,Renekton,Malphite,Azir,Varus,Bard
+73556,2026,LCS,FlyQuest,Shopify Rebellion,FlyQuest,FlyQuest,Sion,Volibear,Taliyah,Aphelios,Thresh,Gnar,Xin Zhao,Ryze,Corki,Neeko
+73558,2026,LCS,LYON,Dignitas,LYON,LYON,Rumble,Jarvan IV,Akali,Yunara,Bard,KSante,Wukong,Orianna,Kaisa,Alistar
+73559,2026,LCS,LYON,Dignitas,LYON,Dignitas,Renekton,Pantheon,Ryze,Aphelios,Lulu,Kennen,Vi,Taliyah,Jinx,Nautilus
+73767,2026,LCS,LYON,Cloud9,Cloud9,LYON,Renekton,Nocturne,Orianna,Ezreal,Karma,Aurora,Jarvan IV,Azir,Corki,Nami
+73768,2026,LCS,Cloud9,LYON,Cloud9,Cloud9,KSante,Pantheon,Taliyah,Lucian,Braum,Rumble,Vi,Ahri,Aphelios,Renata Glasc
+73770,2026,LCS,Dignitas,Sentinels,Sentinels,Sentinels,Gwen,Wukong,Azir,Yunara,Alistar,Renekton,Nocturne,Orianna,Kaisa,Rakan
+73771,2026,LCS,Sentinels,Dignitas,Sentinels,Sentinels,Sion,Pantheon,Taliyah,Ezreal,Poppy,KSante,Vi,Ryze,Varus,Rell
+73773,2026,LCS,Disguised,FlyQuest,FlyQuest,FlyQuest,Rumble,Wukong,Azir,Corki,Nami,KSante,Volibear,Orianna,Ezreal,Karma
+73774,2026,LCS,Disguised,FlyQuest,Disguised,FlyQuest,RekSai,Vi,Ryze,Kaisa,Bard,Sion,Qiyana,Taliyah,Jhin,Alistar
+73775,2026,LCS,FlyQuest,Disguised,FlyQuest,Disguised,Aurora,Ambessa,Syndra,Senna,Rell,Renekton,Diana,Yone,Aphelios,Nautilus
+73776,2026,LCS,Team Liquid,Shopify Rebellion,Team Liquid,Team Liquid,Ambessa,Jarvan IV,Ryze,Corki,Nami,Rumble,Vi,Anivia,Lucian,Milio
+73777,2026,LCS,Team Liquid,Shopify Rebellion,Team Liquid,Team Liquid,Renekton,Nocturne,Orianna,Yunara,Bard,Gnar,Wukong,Azir,Xayah,Rakan
+74014,2026,LCS,LYON,Disguised,Disguised,Disguised,Rumble,Vi,Taliyah,Corki,Rell,Galio,Pantheon,Azir,Kaisa,Neeko
+74015,2026,LCS,LYON,Disguised,LYON,Disguised,Sion,Trundle,Anivia,Yunara,Braum,Renekton,Wukong,Ryze,Aphelios,Thresh
+74016,2026,LCS,LYON,Disguised,Disguised,Disguised,KSante,Xin Zhao,Cassiopeia,Zeri,Lulu,Aurora,Dr. Mundo,Jayce,Lucian,Nami
+74171,2026,LCS,Shopify Rebellion,Dignitas,Dignitas,Dignitas,Ambessa,Vi,Akali,Varus,Braum,Sion,Jarvan IV,Azir,Jhin,Nautilus
+74172,2026,LCS,Dignitas,Shopify Rebellion,Dignitas,Shopify Rebellion,Poppy,Xin Zhao,Taliyah,Yunara,Lulu,KSante,Qiyana,Ryze,Lucian,Nami
+74174,2026,LCS,FlyQuest,Cloud9,Cloud9,Cloud9,Gnar,Wukong,Ryze,Sion,Senna,Renekton,Zaahen,Taliyah,Corki,Nautilus
+74175,2026,LCS,Cloud9,FlyQuest,FlyQuest,Cloud9,KSante,Nidalee,Azir,Yunara,Lulu,Jayce,Trundle,Orianna,Ezreal,Karma
+74176,2026,LCS,Cloud9,FlyQuest,Cloud9,Cloud9,Aurora,Nocturne,Neeko,Varus,Rakan,Rumble,Vi,Sylas,Jhin,Alistar
+74232,2026,LCS,Team Liquid,Dignitas,Team Liquid,Team Liquid,Sion,Jarvan IV,Ryze,Ezreal,Neeko,Renekton,Pantheon,Taliyah,Aphelios,Thresh
+74233,2026,LCS,Sentinels,Disguised,Disguised,Disguised,Sion,Aatrox,Orianna,Jhin,Neeko,Ambessa,Nocturne,Akali,Ezreal,Karma
+74234,2026,LCS,Sentinels,Disguised,Sentinels,Sentinels,Gnar,Jarvan IV,Ryze,Ashe,Seraphine,Renekton,Pantheon,Anivia,Kaisa,Blitzcrank
+74235,2026,LCS,Sentinels,Disguised,Disguised,Sentinels,Kennen,Wukong,Viktor,Yunara,Rell,Nasus,Ivern,Yone,Senna,Nautilus
+74236,2026,LCS,Sentinels,Disguised,Sentinels,Sentinels,Zaahen,Vi,Veigar,Miss Fortune,Leona,Jax,Dr. Mundo,Ahri,Corki,Nami
+74237,2026,LCS,Sentinels,Disguised,Sentinels,Sentinels,Galio,Xin Zhao,Hwei,Varus,Rakan,Rumble,Sejuani,Tristana,Sivir,Bard
+74238,2026,LCS,Cloud9,FlyQuest,Cloud9,Cloud9,KSante,Ambessa,Galio,Corki,Neeko,Rumble,Zaahen,Ryze,Jhin,Alistar
+74239,2026,LCS,Cloud9,FlyQuest,Cloud9,FlyQuest,Renekton,Vi,Taliyah,Yunara,Nami,Sion,Trundle,Azir,Aphelios,Lulu
+74240,2026,LCS,Cloud9,FlyQuest,Cloud9,Cloud9,Gnar,Wukong,Orianna,Sivir,Bard,Aurora,Nocturne,Akali,Kalista,Renata Glasc
+74594,2026,LCS,Disguised,Team Liquid,Team Liquid,N/A,,,,,,,,,,
+74595,2026,LCS,Disguised,Team Liquid,Team Liquid,N/A,,,,,,,,,,
+74596,2026,LCS,Disguised,Team Liquid,Team Liquid,N/A,,,,,,,,,,
+74597,2026,LCS,Disguised,Team Liquid,Team Liquid,N/A,,,,,,,,,,
+74598,2026,LCS,Disguised,Team Liquid,Team Liquid,N/A,,,,,,,,,,
+74599,2026,LCS,FlyQuest,LYON,LYON,N/A,,,,,,,,,,
+74600,2026,LCS,FlyQuest,LYON,LYON,N/A,,,,,,,,,,
+74601,2026,LCS,FlyQuest,LYON,LYON,N/A,,,,,,,,,,
+74602,2026,LCS,FlyQuest,LYON,LYON,N/A,,,,,,,,,,
+74603,2026,LCS,FlyQuest,LYON,LYON,N/A,,,,,,,,,,
+74604,2026,LCS,Cloud9,Sentinels,Sentinels,N/A,,,,,,,,,,
+74605,2026,LCS,Cloud9,Sentinels,Sentinels,N/A,,,,,,,,,,
+74606,2026,LCS,Cloud9,Sentinels,Sentinels,N/A,,,,,,,,,,
+74607,2026,LCS,Cloud9,Sentinels,Sentinels,N/A,,,,,,,,,,
+74608,2026,LCS,Cloud9,Sentinels,Sentinels,N/A,,,,,,,,,,
+74609,2026,LCS,Movistar KOI Fenix,Barca eSports,Movistar KOI Fenix,Barca eSports,Sion,Xin Zhao,Ahri,Yunara,Karma,Rumble,Pantheon,Taliyah,Kaisa,Neeko
+73148,2026,LPL,Invictus Gaming,Weibo Gaming,Invictus Gaming,N/A,KSante,Wukong,Ahri,Varus,Nautilus,Rumble,Pantheon,Taliyah,Yunara,Alistar
+73149,2026,LPL,Invictus Gaming,Weibo Gaming,Weibo Gaming,N/A,Renekton,Dr. Mundo,Ryze,Senna,Rell,Gnar,Malphite,Syndra,Kaisa,Rakan
+73150,2026,LPL,Weibo Gaming,Invictus Gaming,Weibo Gaming,N/A,Jax,Xin Zhao,Cassiopeia,Zeri,Neeko,Gragas,Ambessa,Aurora,Sivir,Leona
+73151,2026,LPL,JD Gaming,Top Esports,JD Gaming,N/A,Renekton,Malphite,Orianna,Yunara,Neeko,KSante,Ambessa,Azir,Jhin,Rell
+73152,2026,LPL,JD Gaming,Top Esports,JD Gaming,N/A,Rumble,Jarvan IV,Aurora,Miss Fortune,Alistar,Yorick,Vi,Sylas,Varus,Leona
+73154,2026,LPL,Ultra Prime,LGD Gaming,LGD Gaming,N/A,Rumble,Ambessa,Ahri,Varus,Rell,KSante,Qiyana,Ryze,Yunara,Braum
+73155,2026,LPL,Ultra Prime,LGD Gaming,LGD Gaming,N/A,Renekton,Malphite,Syndra,Miss Fortune,Alistar,Jax,Dr. Mundo,Taliyah,Sivir,Lulu
+73157,2026,LPL,Anyone s Legend,Invictus Gaming,Anyone s Legend,N/A,RekSai,Jarvan IV,Azir,Varus,Bard,Renekton,Ambessa,Orianna,Sivir,Alistar
+73158,2026,LPL,Anyone s Legend,Invictus Gaming,Anyone s Legend,N/A,Sion,Xin Zhao,Ryze,Aphelios,Thresh,Zaahen,Pantheon,Anivia,Yunara,Lulu
+73160,2026,LPL,Bilibili Gaming,Weibo Gaming,Weibo Gaming,N/A,Zaahen,Wukong,Azir,Varus,Nautilus,Ambessa,Jarvan IV,LeBlanc,Yunara,Neeko
+73161,2026,LPL,Weibo Gaming,Bilibili Gaming,Bilibili Gaming,N/A,Renekton,Dr. Mundo,Aurora,Corki,Blitzcrank,Gnar,Malphite,Syndra,Aphelios,Thresh
+73162,2026,LPL,Bilibili Gaming,Weibo Gaming,Bilibili Gaming,N/A,Sion,Xin Zhao,Taliyah,Miss Fortune,Alistar,RekSai,Vi,Cassiopeia,Ezreal,Braum
+73166,2026,LPL,EDward Gaming,Team WE,Team WE,N/A,KSante,Ambessa,Orianna,Yunara,Poppy,Renekton,Jarvan IV,Akali,Varus,Rakan
+73167,2026,LPL,Team WE,EDward Gaming,Team WE,N/A,Yorick,Dr. Mundo,Azir,Sivir,Lulu,Gnar,Malphite,Taliyah,Jinx,Rell
+73169,2026,LPL,Anyone s Legend,Bilibili Gaming,Anyone s Legend,N/A,RekSai,Jayce,Orianna,Varus,Bard,Renekton,Malphite,Azir,Jhin,Alistar
+73170,2026,LPL,Anyone s Legend,Bilibili Gaming,Bilibili Gaming,N/A,Aurora,Xin Zhao,Akali,Aphelios,Lulu,Rumble,Nocturne,Syndra,Miss Fortune,Neeko
+73171,2026,LPL,Bilibili Gaming,Anyone s Legend,Bilibili Gaming,N/A,Jax,Qiyana,Ryze,Sivir,Shen,KSante,Pantheon,Taliyah,Kaisa,Rell
+73172,2026,LPL,Invictus Gaming,JD Gaming,Invictus Gaming,N/A,KSante,Dr. Mundo,Syndra,Kaisa,Neeko,Renekton,Malphite,Azir,Yunara,Lulu
+73173,2026,LPL,Invictus Gaming,JD Gaming,JD Gaming,N/A,Sion,Xin Zhao,LeBlanc,Aphelios,Thresh,Zaahen,Vi,Orianna,Sivir,Nautilus
+73174,2026,LPL,JD Gaming,Invictus Gaming,Invictus Gaming,N/A,Gwen,Wukong,Ahri,Jhin,Poppy,Yorick,Qiyana,Taliyah,Varus,Alistar
+73175,2026,LPL,Bilibili Gaming,Top Esports,Bilibili Gaming,N/A,Renekton,Pantheon,Orianna,Varus,Braum,Ornn,Ambessa,Akali,Jhin,Rell
+73176,2026,LPL,Bilibili Gaming,Top Esports,Bilibili Gaming,N/A,Sion,Qiyana,Ziggs,Sivir,Alistar,Mordekaiser,Trundle,Azir,Miss Fortune,Poppy
+73178,2026,LPL,JD Gaming,Anyone s Legend,JD Gaming,N/A,KSante,Vi,Taliyah,Aphelios,Nautilus,Rumble,Qiyana,Azir,Yunara,Alistar
+73179,2026,LPL,JD Gaming,Anyone s Legend,Anyone s Legend,N/A,Gwen,Xin Zhao,Anivia,Sivir,Bard,Sion,Poppy,Ryze,Varus,Karma
+73180,2026,LPL,Anyone s Legend,JD Gaming,JD Gaming,N/A,RekSai,Wukong,Ahri,Kalista,Renata Glasc,Zaahen,Jarvan IV,Viktor,Miss Fortune,Rakan
+73181,2026,LPL,Hanwha Life Esports Challengers,Gen.G Global Academy,Hanwha Life Esports Challengers,Gen.G Global Academy,Ambessa,Dr. Mundo,Azir,Varus,Alistar,Aatrox,Malphite,Akali,Yunara,Nautilus
+73182,2026,LPL,Gen.G Global Academy,Hanwha Life Esports Challengers,Hanwha Life Esports Challengers,Hanwha Life Esports Challengers,Zaahen,Wukong,Ahri,Kaisa,Rakan,KSante,Vi,Taliyah,Aphelios,Thresh
+73293,2026,LPL,Oh My God,LNG Esports,LNG Esports,N/A,KSante,Malphite,Akali,Aphelios,Alistar,Renekton,Jarvan IV,Orianna,Yunara,Lulu
+73294,2026,LPL,LNG Esports,Oh My God,LNG Esports,N/A,RekSai,Xin Zhao,Azir,Varus,Renata Glasc,Sion,Wukong,Viktor,Miss Fortune,Leona
+73312,2026,LPL,Weibo Gaming,Top Esports,Top Esports,N/A,Zaahen,Qiyana,Aurora,Yunara,Bard,Kennen,Vi,Ahri,Aphelios,Rakan
+73313,2026,LPL,Ninjas in Pyjamas,EDward Gaming,EDward Gaming,N/A,Ornn,Jarvan IV,Aurelion Sol,Aphelios,Lulu,Renekton,Xin Zhao,Azir,Yunara,Bard
+73314,2026,LPL,EDward Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Zaahen,Dr. Mundo,Ryze,Sivir,Alistar,Ambessa,Malphite,Cassiopeia,Kaisa,Rakan
+73315,2026,LPL,EDward Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,KSante,Wukong,Taliyah,Ashe,Renata Glasc,Poppy,Vi,Ahri,Miss Fortune,Leona
+73316,2026,LPL,Gen.G Global Academy,KT Rolster Challengers,Gen.G Global Academy,Gen.G Global Academy,Ambessa,Jarvan IV,Azir,Varus,Leona,KSante,Vi,Orianna,Yunara,Nautilus
+73317,2026,LPL,Gen.G Global Academy,KT Rolster Challengers,KT Rolster Challengers,Gen.G Global Academy,Sion,Wukong,Ryze,Miss Fortune,Rell,Gwen,Xin Zhao,Taliyah,Aphelios,Lulu
+73318,2026,LPL,KT Rolster Challengers,Gen.G Global Academy,KT Rolster Challengers,Gen.G Global Academy,Rumble,Trundle,Akali,Zeri,Yuumi,Aatrox,Zac,Galio,Sivir,Alistar
+73447,2026,LPL,Anyone s Legend,Weibo Gaming,Anyone s Legend,N/A,Sion,Jarvan IV,Azir,Corki,Bard,Ambessa,Nocturne,Orianna,Yunara,Alistar
+73448,2026,LPL,Anyone s Legend,Weibo Gaming,Anyone s Legend,N/A,RekSai,Qiyana,Ryze,Miss Fortune,Rell,Renekton,Vi,Syndra,Lucian,Braum
+73450,2026,LPL,Bilibili Gaming,Invictus Gaming,Bilibili Gaming,N/A,KSante,Xin Zhao,Orianna,Yunara,Bard,Rumble,Vi,Yone,Corki,Neeko
+73451,2026,LPL,Bilibili Gaming,Invictus Gaming,Bilibili Gaming,N/A,Sion,Nocturne,Akali,Miss Fortune,Alistar,Zaahen,Qiyana,Syndra,Jhin,Nautilus
+73453,2026,LPL,Bushido Wildcats,PCIFIC Esports,Bushido Wildcats,Bushido Wildcats,KSante,Dr. Mundo,Ryze,Xayah,Rakan,Gnar,Malphite,Azir,Kaisa,Alistar
+73454,2026,LPL,Bushido Wildcats,PCIFIC Esports,Bushido Wildcats,Bushido Wildcats,Sion,Jayce,LeBlanc,Ezreal,Leona,Gwen,Jarvan IV,Galio,Varus,Neeko
+73465,2026,LPL,LNG Esports,LGD Gaming,LNG Esports,N/A,Rumble,Xin Zhao,Ryze,Corki,Nami,Ambessa,Jarvan IV,Anivia,Caitlyn,Karma
+73466,2026,LPL,LNG Esports,LGD Gaming,LGD Gaming,N/A,Renekton,Pantheon,Aurora,Ziggs,Leona,Jax,Vi,Ahri,Aphelios,Rell
+73467,2026,LPL,LNG Esports,LGD Gaming,LNG Esports,N/A,Sion,Wukong,Akali,Varus,Lulu,Zaahen,Dr. Mundo,Orianna,Miss Fortune,Renata Glasc
+73468,2026,LPL,Top Esports,Invictus Gaming,Top Esports,N/A,Ambessa,Pantheon,Ahri,Miss Fortune,Poppy,Rumble,Vi,Taliyah,Sivir,Rell
+73469,2026,LPL,Top Esports,Invictus Gaming,Invictus Gaming,N/A,Renekton,Trundle,Azir,Jhin,Nautilus,KSante,Wukong,LeBlanc,Corki,Alistar
+73470,2026,LPL,Invictus Gaming,Top Esports,Invictus Gaming,N/A,Sion,Nocturne,Anivia,Yunara,Lulu,Yorick,Dr. Mundo,Ryze,Kaisa,Neeko
+73471,2026,LPL,Oh My God,Ultra Prime,Ultra Prime,N/A,Rumble,Wukong,Taliyah,Aphelios,Nautilus,KSante,Jarvan IV,Zoe,Yunara,Braum
+73472,2026,LPL,Oh My God,Ultra Prime,Ultra Prime,N/A,RekSai,Trundle,Azir,Miss Fortune,Leona,Sion,Nocturne,Ryze,Corki,Rakan
+73474,2026,LPL,EDward Gaming,ThunderTalk Gaming,EDward Gaming,N/A,Ornn,Jarvan IV,Azir,Yunara,Alistar,Renekton,Wukong,Taliyah,Varus,Rell
+73475,2026,LPL,EDward Gaming,ThunderTalk Gaming,EDward Gaming,N/A,Zaahen,Xin Zhao,Malzahar,Kaisa,Neeko,Ambessa,Qiyana,Ryze,Jhin,Nautilus
+73477,2026,LPL,Team WE,Ninjas in Pyjamas,Team WE,N/A,Yorick,Dr. Mundo,Ryze,Varus,Braum,Rumble,Jarvan IV,Taliyah,Miss Fortune,Bard
+73478,2026,LPL,Team WE,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Renekton,Trundle,Mel,Aphelios,Nautilus,Gnar,Malphite,Aurora,Jinx,Thresh
+73479,2026,LPL,Team WE,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,RekSai,Xin Zhao,Syndra,Yunara,Rakan,Sion,Qiyana,Azir,Sivir,Lulu
+73480,2026,LPL,LGD Gaming,Oh My God,Oh My God,N/A,KSante,Wukong,Ryze,Varus,Rell,Rumble,Jarvan IV,Taliyah,Yunara,Lulu
+73481,2026,LPL,LGD Gaming,Oh My God,LGD Gaming,N/A,Ambessa,Nocturne,Syndra,Draven,Nautilus,Sion,Qiyana,Azir,Kaisa,Neeko
+73482,2026,LPL,LGD Gaming,Oh My God,Oh My God,N/A,Udyr,Vi,Ahri,Miss Fortune,Bard,Zaahen,Xin Zhao,Sylas,Ashe,Seraphine
+73483,2026,LPL,ThunderTalk Gaming,EDward Gaming,ThunderTalk Gaming,N/A,Ambessa,Jarvan IV,Orianna,Miss Fortune,Alistar,Zaahen,Xin Zhao,Azir,Yunara,Rell
+73484,2026,LPL,ThunderTalk Gaming,EDward Gaming,EDward Gaming,N/A,Gwen,Vi,Taliyah,Corki,Nami,Sion,Wukong,Akali,Kaisa,Neeko
+73485,2026,LPL,EDward Gaming,ThunderTalk Gaming,EDward Gaming,N/A,Gnar,Pantheon,Syndra,Sivir,Leona,KSante,Nocturne,Ryze,Varus,Nautilus
+73486,2026,LPL,Bilibili Gaming,JD Gaming,JD Gaming,N/A,Renekton,Dr. Mundo,Syndra,Yunara,Blitzcrank,Gnar,Malphite,Ryze,Aphelios,Thresh
+73487,2026,LPL,JD Gaming,Bilibili Gaming,JD Gaming,N/A,Ambessa,Xin Zhao,Ahri,Sivir,Neeko,Sion,Pantheon,Taliyah,Varus,Bard
+73489,2026,LPL,Anyone s Legend,Top Esports,Anyone s Legend,N/A,Sion,Pantheon,Azir,Yunara,Braum,Ambessa,Trundle,Orianna,Corki,Alistar
+73490,2026,LPL,Anyone s Legend,Top Esports,Top Esports,N/A,Galio,Jarvan IV,Ryze,Varus,Leona,Rumble,Wukong,Akali,Miss Fortune,Rell
+73491,2026,LPL,Top Esports,Anyone s Legend,Anyone s Legend,N/A,Renekton,Viego,Syndra,Aphelios,Nautilus,Aurora,Xin Zhao,Cassiopeia,Sivir,Rakan
+73492,2026,LPL,JD Gaming,Weibo Gaming,Weibo Gaming,N/A,KSante,Vi,Ryze,Miss Fortune,Leona,Rumble,Jarvan IV,Azir,Jhin,Nautilus
+73493,2026,LPL,Weibo Gaming,JD Gaming,Weibo Gaming,N/A,Jax,Poppy,Ahri,Sivir,Alistar,Zaahen,Wukong,Taliyah,Varus,Rakan
+73495,2026,LPL,Team WE,Ninjas in Pyjamas,Team WE,N/A,Rumble,Dr. Mundo,Azir,Ezreal,Karma,KSante,Jarvan IV,Orianna,Yunara,Lulu
+73496,2026,LPL,Team WE,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Sion,Wukong,Aurora,Corki,Braum,Renekton,Vi,Ahri,Miss Fortune,Rell
+73497,2026,LPL,Team WE,Ninjas in Pyjamas,Team WE,N/A,Yorick,Ambessa,Ryze,Sivir,Alistar,Gnar,Qiyana,Cassiopeia,Kalista,Renata Glasc
+73498,2026,LPL,Invictus Gaming,Top Esports,Top Esports,N/A,Rumble,Qiyana,Syndra,Varus,Nautilus,Ambessa,Pantheon,Orianna,Yunara,Alistar
+73499,2026,LPL,Top Esports,Invictus Gaming,Top Esports,N/A,Sion,Xin Zhao,Azir,Miss Fortune,Poppy,Renekton,Trundle,Taliyah,Corki,Rell
+73501,2026,LPL,BK ROG Esports,Zephyr Esport,BK ROG Esports,BK ROG Esports,Sion,Jayce,Syndra,Yunara,Karma,Chogath,Wukong,Orianna,Smolder,Neeko
+73502,2026,LPL,Solary,Yumeea,Solary,Solary,Sion,RekSai,Azir,Yunara,Neeko,Ambessa,Nocturne,Akali,Lux,Karma
+73503,2026,LPL,French Flair,Lausanne-Sport Esports,French Flair,French Flair,Renekton,Vi,Ryze,Yunara,Braum,Darius,Gwen,Syndra,Kaisa,Rell
+73603,2026,LPL,ThunderTalk Gaming,Team WE,Team WE,N/A,Renekton,Xin Zhao,Orianna,Varus,Alistar,Sion,Jarvan IV,Azir,Ezreal,Leona
+73604,2026,LPL,ThunderTalk Gaming,Team WE,Team WE,N/A,Rumble,Wukong,Syndra,Yunara,Braum,KSante,Viego,Ryze,Kaisa,Rell
+73606,2026,LPL,JD Gaming,Bilibili Gaming,JD Gaming,N/A,Rumble,Xin Zhao,Ziggs,Varus,Alistar,KSante,Pantheon,Azir,Corki,Rakan
+73607,2026,LPL,JD Gaming,Bilibili Gaming,Bilibili Gaming,N/A,Ambessa,Dr. Mundo,Galio,Yunara,Neeko,Gnar,Malphite,Aurora,Ashe,Seraphine
+73608,2026,LPL,Bilibili Gaming,JD Gaming,JD Gaming,N/A,RekSai,Vi,Ahri,Aphelios,Thresh,Sion,Jarvan IV,Viktor,Sivir,Bard
+73609,2026,LPL,LNG Esports,Ultra Prime,LNG Esports,N/A,Rumble,Jarvan IV,Azir,Jhin,Bard,KSante,Vi,Ekko,Ashe,Seraphine
+73610,2026,LPL,LNG Esports,Ultra Prime,LNG Esports,N/A,Gwen,Xin Zhao,Akali,Corki,Rakan,Sion,Wukong,Orianna,Kaisa,Rell
+73612,2026,LPL,Top Esports,Weibo Gaming,Weibo Gaming,N/A,Ambessa,Pantheon,Azir,Corki,Bard,Rumble,Vi,Orianna,Sivir,Alistar
+73613,2026,LPL,Weibo Gaming,Top Esports,Top Esports,N/A,Sion,Jarvan IV,Viktor,Aphelios,Thresh,Aatrox,Xin Zhao,Syndra,Yunara,Lulu
+73614,2026,LPL,Top Esports,Weibo Gaming,Weibo Gaming,N/A,Gnar,Wukong,Sylas,Miss Fortune,Rell,Renekton,Qiyana,Ryze,Ashe,Nautilus
+73615,2026,LPL,Invictus Gaming,Anyone s Legend,Anyone s Legend,N/A,Rumble,Wukong,Syndra,Ashe,Seraphine,Sion,Xin Zhao,Azir,Corki,Neeko
+73616,2026,LPL,Anyone s Legend,Invictus Gaming,Invictus Gaming,N/A,Aurora,Qiyana,Ryze,Miss Fortune,Leona,Renekton,Jayce,Anivia,Ezreal,Alistar
+73617,2026,LPL,Invictus Gaming,Anyone s Legend,Anyone s Legend,N/A,KSante,Ambessa,Swain,Sivir,Nautilus,Zaahen,Pantheon,Galio,Varus,Rakan
+73618,2026,LPL,Ultra Prime,LGD Gaming,Ultra Prime,N/A,Rumble,Trundle,Akali,Sivir,Rell,KSante,Xin Zhao,Azir,Varus,Braum
+73619,2026,LPL,Ultra Prime,LGD Gaming,LGD Gaming,N/A,Jax,Jarvan IV,Taliyah,Corki,Alistar,Ambessa,Wukong,Ahri,Draven,Nautilus
+73620,2026,LPL,Ultra Prime,LGD Gaming,LGD Gaming,N/A,Sion,Viego,Ryze,Yunara,Neeko,Gwen,Nocturne,Syndra,Ashe,Seraphine
+73621,2026,LPL,LNG Esports,Oh My God,LNG Esports,N/A,Sion,Xin Zhao,Azir,Corki,Poppy,Zaahen,Wukong,Taliyah,Varus,Rell
+73622,2026,LPL,LNG Esports,Oh My God,LNG Esports,N/A,Gnar,Trundle,Ryze,Ezreal,Karma,Yorick,Pantheon,Anivia,Yunara,Lulu
+73624,2026,LPL,EDward Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Sion,Jarvan IV,Azir,Jhin,Rell,Varus,Vi,Ahri,Yunara,Rakan
+73625,2026,LPL,EDward Gaming,Ninjas in Pyjamas,EDward Gaming,N/A,Ornn,Wukong,Orianna,Kaisa,Neeko,Rumble,Pantheon,Akali,Tristana,Leona
+73626,2026,LPL,EDward Gaming,Ninjas in Pyjamas,EDward Gaming,N/A,KSante,Nocturne,Malzahar,Jinx,Alistar,Renekton,Viego,Ryze,Corki,Nami
+73627,2026,LPL,ThunderTalk Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Yasuo,Xin Zhao,Azir,Miss Fortune,Rakan,Varus,Sejuani,Yone,Jhin,Bard
+73628,2026,LPL,Ninjas in Pyjamas,ThunderTalk Gaming,Ninjas in Pyjamas,N/A,Renekton,Qiyana,Aurora,Aphelios,Thresh,Gnar,Jarvan IV,Ryze,Ashe,Seraphine
+73630,2026,LPL,Weibo Gaming,JD Gaming,Weibo Gaming,N/A,Ambessa,Jarvan IV,Azir,Miss Fortune,Leona,Sion,Jayce,Ziggs,Corki,Nautilus
+73631,2026,LPL,Weibo Gaming,JD Gaming,JD Gaming,N/A,Renekton,Pantheon,Syndra,Sivir,Lulu,Ornn,Nocturne,Orianna,Yunara,Bard
+73632,2026,LPL,JD Gaming,Weibo Gaming,Weibo Gaming,N/A,KSante,Vi,Anivia,Lucian,Nami,Rumble,Poppy,Cassiopeia,Caitlyn,Elise
+73633,2026,LPL,Ultra Prime,Oh My God,Oh My God,N/A,KSante,Trundle,Aurora,Yunara,Nautilus,Rumble,Xin Zhao,Ryze,Corki,Bard
+73634,2026,LPL,Ultra Prime,Oh My God,Oh My God,N/A,Gnar,Jarvan IV,Taliyah,Lucian,Nami,Ambessa,Vi,Sylas,Ashe,Seraphine
+73636,2026,LPL,Top Esports,Bilibili Gaming,Bilibili Gaming,N/A,Sion,Jarvan IV,Azir,Lucian,Nami,Rumble,Xin Zhao,Orianna,Kalista,Renata Glasc
+73637,2026,LPL,Bilibili Gaming,Top Esports,Top Esports,N/A,Renekton,Qiyana,Ryze,Jhin,Alistar,Gnar,Vi,Taliyah,Miss Fortune,Poppy
+73638,2026,LPL,Bilibili Gaming,Top Esports,Top Esports,N/A,KSante,Nocturne,Viktor,Varus,Rakan,Aatrox,Wukong,Akali,Sivir,Pantheon
+73639,2026,LPL,Anyone s Legend,JD Gaming,Anyone s Legend,N/A,RekSai,Pantheon,Azir,Varus,Bard,Sion,Nocturne,Orianna,Miss Fortune,Leona
+73640,2026,LPL,Anyone s Legend,JD Gaming,JD Gaming,N/A,Gnar,Malphite,Anivia,Corki,Rakan,Renekton,Jayce,Ryze,Ziggs,Alistar
+73641,2026,LPL,JD Gaming,Anyone s Legend,Anyone s Legend,N/A,Jax,Xin Zhao,Swain,Kaisa,Lulu,Ambessa,Naafiri,Galio,Sivir,Neeko
+73642,2026,LPL,Invictus Gaming,Bilibili Gaming,Bilibili Gaming,N/A,Ambessa,Pantheon,Galio,Kaisa,Neeko,Rumble,Xin Zhao,Ryze,Sivir,Lulu
+73643,2026,LPL,Bilibili Gaming,Invictus Gaming,Bilibili Gaming,N/A,Zaahen,Vi,Azir,Yunara,Bard,Sion,Poppy,Viktor,Aphelios,Thresh
+73645,2026,LPL,LNG Esports,LGD Gaming,LNG Esports,N/A,Gnar,Jarvan IV,Azir,Kalista,Renata Glasc,Jax,Xin Zhao,Ryze,Corki,Nami
+73646,2026,LPL,LNG Esports,LGD Gaming,LGD Gaming,N/A,KSante,Pantheon,Galio,Varus,Rakan,Rumble,Nocturne,Yone,Sivir,Alistar
+73647,2026,LPL,LNG Esports,LGD Gaming,LNG Esports,N/A,RekSai,Vi,Hwei,Yunara,Braum,Sion,Dr. Mundo,Viktor,Draven,Nautilus
+73648,2026,LPL,Top Esports,Anyone s Legend,Anyone s Legend,N/A,Sion,Xin Zhao,Azir,Ashe,Braum,Rumble,Poppy,Orianna,Corki,Alistar
+73649,2026,LPL,Anyone s Legend,Top Esports,Anyone s Legend,N/A,Renekton,Pantheon,Galio,Yunara,Lulu,Aatrox,Vi,Ryze,Aphelios,Thresh
+73651,2026,LPL,Deep Cross Gaming,MVK Esports,Deep Cross Gaming,Deep Cross Gaming,Rumble,Jarvan IV,Yone,Aphelios,Rell,KSante,Vi,Azir,Senna,Nautilus
+73652,2026,LPL,Deep Cross Gaming,MVK Esports,MVK Esports,MVK Esports,Gwen,Viego,Anivia,Varus,Alistar,Aurora,Qiyana,Ryze,Sivir,Leona
+73653,2026,LPL,Deep Cross Gaming,MVK Esports,Deep Cross Gaming,Deep Cross Gaming,Renekton,Jayce,Swain,Corki,Blitzcrank,Ambessa,Wukong,Galio,Lucian,Nami
+73978,2026,LPL,LGD Gaming,Oh My God,Oh My God,N/A,Gwen,Wukong,Ryze,Draven,Renata Glasc,Ambessa,Xin Zhao,Azir,Yunara,Braum
+73979,2026,LPL,LGD Gaming,Oh My God,LGD Gaming,N/A,RekSai,Vi,Taliyah,Corki,Nami,Sion,Pantheon,Aurora,Ashe,Seraphine
+73980,2026,LPL,LGD Gaming,Oh My God,Oh My God,N/A,KSante,Poppy,Viktor,Caitlyn,Karma,Zaahen,Jarvan IV,Syndra,Jhin,Pyke
+73981,2026,LPL,Weibo Gaming,Bilibili Gaming,Bilibili Gaming,N/A,Ambessa,Vi,Azir,Varus,Leona,Rumble,Xin Zhao,Ryze,Ezreal,Bard
+73982,2026,LPL,Bilibili Gaming,Weibo Gaming,Bilibili Gaming,N/A,Zaahen,Pantheon,Galio,Yunara,Alistar,Sion,Aatrox,Syndra,Kaisa,Neeko
+73984,2026,LPL,LNG Esports,Ultra Prime,LNG Esports,N/A,Gnar,Jarvan IV,Azir,Yunara,Alistar,Renekton,Xin Zhao,Orianna,Aphelios,Thresh
+73985,2026,LPL,LNG Esports,Ultra Prime,LNG Esports,N/A,Ambessa,Naafiri,Zoe,Ezreal,Karma,KSante,Vi,Aurora,Ashe,Seraphine
+73987,2026,LPL,JD Gaming,Invictus Gaming,Invictus Gaming,N/A,Sion,Pantheon,Azir,Varus,Bard,Gwen,Xin Zhao,LeBlanc,Yunara,Alistar
+73988,2026,LPL,JD Gaming,Invictus Gaming,JD Gaming,N/A,Rumble,Vi,Ryze,Sivir,Nautilus,Ambessa,Nocturne,Anivia,Miss Fortune,Rakan
+73989,2026,LPL,JD Gaming,Invictus Gaming,JD Gaming,N/A,Renekton,Wukong,Twisted Fate,Corki,Neeko,Ornn,Jarvan IV,Zoe,Ezreal,Karma
+73990,2026,LPL,Team WE,EDward Gaming,EDward Gaming,N/A,Sion,Dr. Mundo,Azir,Sivir,Lulu,Ambessa,Nocturne,Orianna,Miss Fortune,Neeko
+73991,2026,LPL,EDward Gaming,Team WE,EDward Gaming,N/A,Ornn,Jarvan IV,Taliyah,Varus,Nautilus,Rumble,Wukong,Aurora,Yunara,Alistar
+73993,2026,LPL,Anyone s Legend,Weibo Gaming,Weibo Gaming,N/A,Ambessa,Poppy,Orianna,Yunara,Alistar,Rumble,Jarvan IV,Ryze,Kaisa,Nautilus
+73994,2026,LPL,Weibo Gaming,Anyone s Legend,Anyone s Legend,N/A,Aurora,Xin Zhao,Galio,Sivir,Lulu,Sion,Pantheon,Viktor,Corki,Neeko
+73995,2026,LPL,Anyone s Legend,Weibo Gaming,Anyone s Legend,N/A,Naafiri,Sejuani,Azir,Miss Fortune,Rakan,Varus,Nocturne,Akali,Jhin,Leona
+73996,2026,LPL,ThunderTalk Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,KSante,Xin Zhao,Ryze,Corki,Nami,Rumble,Vi,Ahri,Yunara,Neeko
+73997,2026,LPL,ThunderTalk Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Gwen,Nocturne,Akali,Miss Fortune,Alistar,Sion,Jayce,Azir,Jhin,Bard
+73999,2026,LPL,Top Esports,JD Gaming,Top Esports,N/A,Ambessa,Pantheon,Orianna,Kaisa,Poppy,Sion,Xin Zhao,Azir,Yunara,Alistar
+74000,2026,LPL,JD Gaming,Top Esports,Top Esports,N/A,Rumble,Nocturne,Cassiopeia,Sivir,Nautilus,KSante,Wukong,Ryze,Varus,Rakan
+74002,2026,LPL,Weibo Gaming,Invictus Gaming,Weibo Gaming,N/A,Rumble,Nocturne,Ryze,Kaisa,Neeko,Sion,Xin Zhao,Syndra,Yunara,Lulu
+74003,2026,LPL,Weibo Gaming,Invictus Gaming,Weibo Gaming,N/A,Ambessa,Poppy,Azir,Varus,Rell,Zaahen,Pantheon,Ziggs,Jhin,Alistar
+74005,2026,LPL,Bilibili Gaming,Anyone s Legend,Bilibili Gaming,N/A,Ambessa,Xin Zhao,Ryze,Varus,Lulu,RekSai,Pantheon,Cassiopeia,Sivir,Neeko
+74006,2026,LPL,Bilibili Gaming,Anyone s Legend,Anyone s Legend,N/A,KSante,Aatrox,Azir,Yunara,Renata Glasc,Rumble,Wukong,Yone,Kaisa,Alistar
+74007,2026,LPL,Anyone s Legend,Bilibili Gaming,Anyone s Legend,N/A,Renekton,Sejuani,Viktor,Corki,Nautilus,Aurora,Kindred,Galio,Ezreal,Bard
+74134,2026,LPL,SU Esports,Dark Passage,SU Esports,SU Esports,Sion,Lee Sin,Ryze,Yunara,Alistar,Ambessa,Jarvan IV,Orianna,Corki,Rakan
+74135,2026,LPL,SU Esports,Dark Passage,SU Esports,SU Esports,Renekton,Dr. Mundo,Azir,Ezreal,Neeko,Gnar,Viego,LeBlanc,Jhin,Pyke
+74258,2026,LPL,Team WE,Top Esports,Team WE,N/A,Zaahen,Poppy,Twisted Fate,Corki,Nami,KSante,Wukong,Syndra,Caitlyn,Elise
+74259,2026,LPL,Team WE,Top Esports,Top Esports,N/A,Kennen,Dr. Mundo,Sylas,Sivir,Yuumi,Vladimir,Nocturne,Smolder,Zeri,Rakan
+74260,2026,LPL,Ninjas in Pyjamas,Invictus Gaming,Invictus Gaming,N/A,Varus,Qiyana,Ryze,Jhin,Bard,Rumble,Jarvan IV,Cassiopeia,Miss Fortune,Alistar
+74261,2026,LPL,Invictus Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Sion,Pantheon,LeBlanc,Corki,Nami,Renekton,Poppy,Azir,Draven,Neeko
+74262,2026,LPL,Invictus Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Jax,Xin Zhao,Ahri,Kaisa,Nautilus,Gnar,Dr. Mundo,Taliyah,Aphelios,Thresh
+74263,2026,LPL,Invictus Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,Malphite,Jayce,Syndra,Ashe,Seraphine,Ornn,Trundle,Diana,Yunara,Lulu
+74265,2026,LPL,ThunderTalk Gaming,LNG Esports,LNG Esports,N/A,Kennen,Jarvan IV,Ryze,Yunara,Alistar,Rumble,Xin Zhao,Cassiopeia,Corki,Neeko
+74266,2026,LPL,ThunderTalk Gaming,LNG Esports,LNG Esports,N/A,Jax,Vi,Ahri,Aphelios,Thresh,Gnar,Wukong,Azir,Sivir,Leona
+74267,2026,LPL,LNG Esports,ThunderTalk Gaming,LNG Esports,N/A,Aurora,Trundle,Yone,Miss Fortune,Rell,Gwen,Naafiri,Taliyah,Varus,Nautilus
+74270,2026,LPL,Oh My God,EDward Gaming,Oh My God,N/A,KSante,Xin Zhao,LeBlanc,Jhin,Neeko,Renekton,Pantheon,Azir,Miss Fortune,Rell
+74271,2026,LPL,Oh My God,EDward Gaming,Oh My God,N/A,Rumble,Vi,Taliyah,Ashe,Seraphine,Ornn,Jarvan IV,Ahri,Corki,Bard
+74272,2026,LPL,Oh My God,EDward Gaming,EDward Gaming,N/A,Sion,Nocturne,Anivia,Varus,Rakan,Ambessa,Qiyana,Ryze,Ziggs,Leona
+74273,2026,LPL,EDward Gaming,Oh My God,Oh My God,N/A,Nidalee,Trundle,Viktor,Yunara,Lulu,Gnar,Zac,Yone,Aphelios,Thresh
+74275,2026,LPL,T1 Esports Academy,Dplus KIA Challengers,T1 Esports Academy,T1 Esports Academy,Rumble,Xin Zhao,Yone,Ezreal,Bard,KSante,Poppy,Azir,Yunara,Lulu
+74309,2026,LPL,Oh My God,Invictus Gaming,Invictus Gaming,N/A,Ambessa,Xin Zhao,Galio,Varus,Alistar,Gwen,Vi,Sylas,Corki,Neeko
+74310,2026,LPL,Invictus Gaming,Oh My God,Invictus Gaming,N/A,Rumble,Wukong,Ryze,Jhin,Rakan,KSante,Dr. Mundo,Azir,Ashe,Seraphine
+74311,2026,LPL,Invictus Gaming,Oh My God,Invictus Gaming,N/A,Renekton,Jarvan IV,Aurora,Sivir,Rell,Gnar,Lee Sin,Akali,Miss Fortune,Rammus
+74314,2026,LPL,LNG Esports,Team WE,Team WE,N/A,Gnar,Vi,Ryze,Varus,Nautilus,KSante,Jarvan IV,Ahri,Yunara,Lulu
+74315,2026,LPL,Team WE,LNG Esports,Team WE,N/A,Ornn,Xin Zhao,Azir,Ashe,Seraphine,Rumble,Jax,Orianna,Lucian,Nami
+74316,2026,LPL,Team WE,LNG Esports,LNG Esports,N/A,Aurora,Sylas,Yone,Sivir,Alistar,Kennen,Wukong,Zoe,Ezreal,Karma
+74317,2026,LPL,LNG Esports,Team WE,Team WE,N/A,Sion,KhaZix,Syndra,Miss Fortune,Rell,Aatrox,Jayce,Akali,Jhin,Leona
+74319,2026,LPL,KT Rolster Challengers,T1 Esports Academy,T1 Esports Academy,N/A,,,,,,,,,,
+74427,2026,LPL,JD Gaming,Top Esports,Top Esports,N/A,,,,,,,,,,
+74428,2026,LPL,JD Gaming,Top Esports,Top Esports,N/A,,,,,,,,,,
+74429,2026,LPL,JD Gaming,Top Esports,Top Esports,N/A,,,,,,,,,,
+74430,2026,LPL,JD Gaming,Top Esports,Top Esports,N/A,,,,,,,,,,
+74431,2026,LPL,JD Gaming,Top Esports,Top Esports,N/A,,,,,,,,,,
+74432,2026,LPL,Anyone s Legend,Team WE,Team WE,N/A,,,,,,,,,,
+74433,2026,LPL,Anyone s Legend,Team WE,Team WE,N/A,,,,,,,,,,
+74434,2026,LPL,Anyone s Legend,Team WE,Team WE,N/A,,,,,,,,,,
+74435,2026,LPL,Anyone s Legend,Team WE,Team WE,N/A,,,,,,,,,,
+74436,2026,LPL,Anyone s Legend,Team WE,Team WE,N/A,,,,,,,,,,
+74437,2026,LPL,Weibo Gaming,Invictus Gaming,Invictus Gaming,N/A,,,,,,,,,,
+74438,2026,LPL,Weibo Gaming,Invictus Gaming,Invictus Gaming,N/A,,,,,,,,,,
+74439,2026,LPL,Weibo Gaming,Invictus Gaming,Invictus Gaming,N/A,,,,,,,,,,
+74440,2026,LPL,Weibo Gaming,Invictus Gaming,Invictus Gaming,N/A,,,,,,,,,,
+74441,2026,LPL,Weibo Gaming,Invictus Gaming,Invictus Gaming,N/A,,,,,,,,,,
+74442,2026,LPL,Bilibili Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,,,,,,,,,,
+74443,2026,LPL,Bilibili Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,,,,,,,,,,
+74444,2026,LPL,Bilibili Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,,,,,,,,,,
+74445,2026,LPL,Bilibili Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,,,,,,,,,,
+74446,2026,LPL,Bilibili Gaming,Ninjas in Pyjamas,Ninjas in Pyjamas,N/A,,,,,,,,,,

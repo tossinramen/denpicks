@@ -16,7 +16,7 @@ def get_prediction(team_blue, team_red, champs_blue, champs_red):
     except ValueError as e:
         return f"Error: {e}. Check if you misspelled a champion or team name."
 
-    # Probabilities for Team Blue (index 1)
+
     ft5_prob = model_ft5.predict_proba(encoded_match)[0][1]
     win_prob = model_win.predict_proba(encoded_match)[0][1]
 
@@ -25,7 +25,7 @@ def get_prediction(team_blue, team_red, champs_blue, champs_red):
     print(f"Chance of {team_blue} winning game: {win_prob:.2%}")
 
 if __name__ == "__main__":
-    # Test a specific draft
+    
     get_prediction(
         team_blue="T1", 
         team_red="Gen.G", 

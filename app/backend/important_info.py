@@ -1,7 +1,7 @@
 import pandas as pd
-from ft5_model import df_full, model_ft5, feature_cols # Import from your main script
+from ft5_model import df_full, model_ft5, feature_cols 
 
-# 1. Champion Impact on FT5
+
 # We look at Team Blue's champs (1-5)
 blue_champs = ['Champ 1', 'Champ 2', 'Champ 3', 'Champ 4', 'Champ 5']
 df_ft5 = df_full[df_full['FT5 Winner'] != 'N/A'].copy()
@@ -21,7 +21,7 @@ top_10 = pd.DataFrame(impact_list).sort_values('FT5_Win_Rate', ascending=False).
 print("\n--- TOP 10 CHAMPIONS BY FT5 IMPACT (Global Data) ---")
 print(top_10.to_string(index=False))
 
-# 2. Feature Importance
+
 importances = model_ft5.feature_importances_
 print("\n--- FEATURE IMPORTANCE: What drives the Race to 5? ---")
 for name, imp in zip(feature_cols, importances):
